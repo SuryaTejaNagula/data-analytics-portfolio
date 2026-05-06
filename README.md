@@ -1,9 +1,7 @@
 # Data Analytics Portfolio
 ### Surya Teja Nagula
 
-End-to-end data and AI projects spanning decision analytics, machine learning, and intelligent automation.
-
-**Stack:** Python · SQL · Streamlit · XGBoost · OpenAI · Snowflake · Tableau · Power BI
+End-to-end data and AI projects spanning product analytics, machine learning, and ai automation.
 
 ---
 
@@ -163,9 +161,9 @@ Each project folder is self-contained with its own dependencies, setup instructi
 ## About Me
 
 **Surya Teja Nagula**
-Decision Analytics Lead | Banking and Financial Services | Data-Driven Strategy
+Analytics Lead | Product Ownership | AI Automation 
 
-10+ years of experience in banking and financial services — translating complex data into insight-driven strategy across credit risk analytics, customer segmentation, sales lead optimization, and KPI framework design.
+10+ years of experience across banking and retail domains, translating complex data into insight-driven strategies.
 
 - MBA — Indian Institute of Management (IIM) Tiruchirappalli
 - MS Data Analytics — University of South Carolina, Darla Moore School of Business (GPA 4.0)
@@ -173,7 +171,6 @@ Decision Analytics Lead | Banking and Financial Services | Data-Driven Strategy
 
 📍 Columbus, OH
 📧 suryatejanagula2024@gmail.com
-📞 614.974.3645
 
 ---
 
