@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+
+# Auto-generated data files
+bank_data.csv
+bank_prepped.csv
+scored_leads.csv
+weekly_lead_list.csv
+model.pkl
+
+# R artifacts
+.Rhistory
+*.Rhistory
+bank_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
