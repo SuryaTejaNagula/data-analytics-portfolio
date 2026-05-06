@@ -27,3 +27,8 @@ __pycache__/
 
 # Streamlit cache
 .streamlit/
+
+# Secret files - never commit these
+.env
+*.env
+OpenAI-Key.txt
